@@ -1,5 +1,5 @@
-<img src="/img/cap-project1.png" alt="survey form by josue hoenicka">
-<img src="/img/cap-instructions-project1.png" alt="instructions survey form by josue hoenicka">
+<img src="/img/cap-project1.png" alt="tribute page by josue hoenicka">
+<img src="/img/cap-instructions-project1.png" alt="instructions tribute page by josue hoenicka">
 
 <b>ENGLISH</b>
 
