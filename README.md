@@ -3,11 +3,11 @@
 
 <b>ENGLISH</b>
 
-- Survey form is <a href="https://github.com/josuehoenicka">Josue Hoenicka</a>'s project on freeCodeCamp
-- The survey form is a web responsive design project with instructions and specific tasks, in order to obtain the certificate in the Web Responsive Design course at freeCodeCamp
+- Tribute page is <a href="https://github.com/josuehoenicka">Josue Hoenicka</a>'s project on freeCodeCamp
+- The tribute page is a web responsive design project with instructions and specific tasks in order to obtain the certificate in the Web Responsive Design course at freeCodeCamp
 
 <b>SPANISH</b>
 
-- El formulario de encuestas es un proyecto de <a href="https://github.com/josuehoenicka">Josue Hoenicka</a> en freeCodeCamp
-- Formulario de encuesta es un proyecto de un pagina web con instrucciones y tarea expecificas, con el fin de obtener la certificacion en el curso de Web Responsive Design de freeCodeCamp
+- La pagina de tributo es un proyecto de <a href="https://github.com/josuehoenicka">Josue Hoenicka</a> en freeCodeCamp
+- Pagina de tributo es un proyecto de un pagina web con instrucciones y tareas expecificas con el fin de obtener la certificacion en el curso de Web Responsive Design de freeCodeCamp
 
