@@ -39,8 +39,10 @@ body {
   margin-top: 0;
   font-size: 15px;
 }
-  
-/********* img ********/
+
+/********* bio ********/
+
+/* img */
   
 #img-div {
   display: flex;
@@ -68,7 +70,7 @@ body {
 }
   
 
-/********* bio ********/
+/* bio */
  
 #tribute-info {
     margin: 30px;
@@ -92,7 +94,7 @@ body {
   margin-bottom: 60px;
 }
 
-/********** link **********/
+/* link */
 
 #link {
   display: flex;
@@ -125,25 +127,12 @@ body {
 
   /* header */
 
-  .header {
-  }
-
   #title {
     font-size: 80px;
   }
     
   #subtitle {
     font-size: 65px;
-  }
-
-  /* img */
-
-  #img-div {
-  }
-
-  #img-caption {
-    margin-top: 100px;
-    font-size: 40px;
   }
 
   /* bio */
@@ -168,6 +157,13 @@ body {
     font-size: 45px;
   }
 
+  /* img */
+
+  #img-caption {
+    margin-top: 100px;
+    font-size: 40px;
+  }
+
   /*link*/
 
   #link {
@@ -176,5 +172,4 @@ body {
     flex-direction: column;
     text-align: center;
   }
-
 }
